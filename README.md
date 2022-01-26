@@ -1,4 +1,4 @@
-# Face-mask-detection-android-app
+# Android-App-for-Face-mask-detection
 
 Real time face detection using Yolov5 deployed on android
 
