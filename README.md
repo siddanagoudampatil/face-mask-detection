@@ -88,8 +88,14 @@ $python yolov5/train.py --batch 16 --epoch 5 --data data.yaml --cfg mask_yolov5s
  "\ObjectDetection\app\src\main\assets"
  
  Add your .ptl and txt files and build the app in android studio
- 
- 
+
+
+  ## Testing and results
+
+  After successful testing of the model, we are able to achieve 93% accuracy and 0.64 mAP (mean accuracy precision) with the app size of 14.7mb.
+  ![image](https://github.com/siddanagoudampatil/face-mask-detection/assets/64456315/1aba74fd-84ed-47ea-a2ac-a2a703d4e02c) ![image](https://github.com/siddanagoudampatil/face-mask-detection/assets/64456315/b638fa1d-5bd1-4d1d-805f-9950abbb8ec9)
+
+
  
  
  
